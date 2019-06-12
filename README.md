@@ -5,4 +5,4 @@ First Yolo implement for everyone!
 2. Install opencv : pip install opencv-python
 3. Run and enjoy: python YOLO.py --config ./yolov3.cfg --weights yolov3.weights --classes yolov3.txt --image cam3.jpeg
 
-Email me: thangnch@gmai.com for anything!
+Email me: thangnch@gmail.com for anything!
